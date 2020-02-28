@@ -22,7 +22,7 @@ class AboutActivity : AppCompatActivity() {
         }
 
         githubCard.setOnClickListener {
-
+            openUrl("https://github.com/jotapax/triviapp")
         }
     }
 
