@@ -81,7 +81,7 @@ class CategoryHelper {
             category = Category(28, 19, 31, 17,"Vehicles", "#8FB52B", R.drawable.vehicle)
             viewModel.addCategory(category)
 
-            category = Category(29, 9, 23, 13, "Comics", "#8BC3FF", R.drawable.comic)
+            category = Category(29, 9, 23, 13, "Entertainment: Comics", "#8BC3FF", R.drawable.comic)
             viewModel.addCategory(category)
 
             category = Category(30, 9, 8, 4,"Science: Gadgets", "#5A8CDB", R.drawable.gadget)
