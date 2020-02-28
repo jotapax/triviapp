@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Triviapp</string>
+    <string name="preferences_token">preferencesOpenTriviaToken</string>
+    <string name="preferences_first_run">preferencesFirstRun</string>
+
+    <string name="openTrivia">Open trivia database</string>
+    <string name="icons">Icons made by Freepik from www.flaticon.com</string>
+    <string name="sourceCode">Check source code on Github</string>
+</resources>
